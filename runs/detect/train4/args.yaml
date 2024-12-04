@@ -1,7 +1,7 @@
 task: detect
 mode: train
 model: yolov8n.yaml
-data: C:/Users/range/OneDrive/Desktop/ML/Projects/YOLOv8_vehicle_detection/code/data.yaml
+data: YOLOv8_vehicle_detection/code/data.yaml
 epochs: 100
 time: null
 patience: 100
