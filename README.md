@@ -14,3 +14,5 @@ Finally I used both, this custom trained model and the pretrained model to detec
 videos. The results were comparable and I believe that the custom trained model might perform 
 significantly better than the pretrained model on videos where the frames are more like the 
 images that were used for training the model.
+
+Drive link for video results: https://drive.google.com/drive/folders/1rv7riETvU4DJeaPIfkn-q5g2QmdOFjUU?usp=drive_link
