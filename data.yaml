@@ -1,0 +1,7 @@
+path: YOLOv8_vehicle_detection\code\data
+train: images/train
+val: images/val
+test: images/test
+
+nc: 7
+names: ['car', 'number_plate', 'blur_number_plate', 'two_wheeler', 'auto', 'bus', 'truck']

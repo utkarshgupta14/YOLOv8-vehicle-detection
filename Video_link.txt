@@ -1,0 +1,3 @@
+https://drive.google.com/drive/folders/1rv7riETvU4DJeaPIfkn-q5g2QmdOFjUU?usp=drive_link
+
+This is the drive link where you can see the results after labeling the videos on pretrained and custom trained models.
